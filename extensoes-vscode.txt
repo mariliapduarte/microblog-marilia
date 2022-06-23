@@ -1,0 +1,2 @@
+snippet - S branco em um circulo vermelho
+para salvar os comandos

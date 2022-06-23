@@ -1,0 +1,24 @@
+NOME DO BANCO
+id18735614_microblog
+
+USUARIO
+id18735614_marilia
+
+SENHA
+Kqk@~D=\c8Bz2Otk
+
+SERVIDOR
+localhost
+
+
+
+Oa arquivos editados no VSCode são colocados na pasta public.html no gerenciador de arquivos do servidor.
+
+O banco de dados:
+
+No PHPMyadmin local eu exporto o backup do BD
+No PHPmyAdmin online eu importa o backup do BD
+
+Pleo gerenciador de arquivos do servidos, na pasta includes>> conecta>> coloco os novos dados do banco de dados (fornecido pelo servidor).
+
+teste.
